@@ -107,5 +107,3 @@ This is a documentation of XSS tests I performed on the [Root Me](https://www.ro
 - [XSS Cheat Sheet](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)
 
 ---
-
-**Bruno - 2025**
